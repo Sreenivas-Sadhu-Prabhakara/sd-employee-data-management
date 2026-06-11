@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-employee-data-management
+description: "BIAN Service Domain: Employee Data Management (Maintain pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Human Resources"
+  bian/asset-type: "Employee Record"
+  bian/control-record: "Employee Record Maintenance Agreement"
